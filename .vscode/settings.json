@@ -1,0 +1,6 @@
+{
+    "powermode.enabled": true,
+    "powermode.combo.counterSize": 1,
+    "powermode.combo.threshold": 200,
+    "powermode.shake.intensity": 4
+}
